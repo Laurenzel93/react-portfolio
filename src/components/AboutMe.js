@@ -79,7 +79,7 @@ function AboutMe() {
                             </div>
                         </div>
                         <div id="aboutMePic" ClassName="col-lg-6 text-center">
-                            <img src="./assets/AboutMePic.jpeg" width="100%" height="auto">
+                            <img src="./assets/AboutMePic.jpeg" width="400px" height="550px">
 
                             </img>
                         </div>
