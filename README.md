@@ -1,4 +1,5 @@
 # My React Portfolio
+Deployed Link: https://laurenzel93.github.io/react-portfolio/
 
 ## Getting Started with Create React App
 
