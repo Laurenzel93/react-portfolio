@@ -22,7 +22,7 @@ function Projects() {
                         <div className="work-box">
                             <h2 className="w-title text-center">Inspecto-Gadget</h2>
                             <div className="work-img ">
-                                <img src="assets/comingsoon.jpeg" className="img-fluid" width="300px" height="300px" >
+                                <img src="assets/comingsoon.jpeg" className="img-fluid" >
                                 </img>
                                 <div className="work-content">
                                     <div className="row">
@@ -43,7 +43,7 @@ function Projects() {
                                 <h2 className="w-title text-center">Team Profile Generator</h2>
                                 <div className="work-img ">
                                     <a href="https://github.com/Laurenzel93/team-profile-generator" target="blank"><img
-                                        src="assets/team-profile-generator.png" className="img-fluid" width="300px" height="300px" ></img>
+                                        src="assets/team-profile-generator.png" className="img-fluid"></img>
                                     </a>
                                     <div className="work-content">
                                         <div className="row">
@@ -64,7 +64,7 @@ function Projects() {
                                 <div className="work-box">
                                     <h2 className="w-title text-center">The Bashful Diner</h2>
                                     <div className="work-img ">
-                                        <a href="http://www.thebashfuldiner.com/" target="blank"><img src="assets/BashfulDiner.png" className="img-fluid" width="300px" height="300px" ></img>
+                                        <a href="http://www.thebashfuldiner.com/" target="blank"><img src="assets/BashfulDiner.png" className="img-fluid"></img>
                                         </a>
                                         <div className="work-content">
                                             <div className="row">
@@ -86,7 +86,7 @@ function Projects() {
                                         <h2 className="w-title text-center">Weather Dashboard</h2>
                                         <div className="work-img ">
                                             <a href="https://laurenzel93.github.io/weather-dashboard/" target="blank"><img src="assets/weather-dashboard.png"
-                                                className="img-fluid" width="300px" height="300px" ></img>
+                                                className="img-fluid"></img>
                                             </a>
                                             <div className="work-content">
                                                 <div className="row">
@@ -107,7 +107,7 @@ function Projects() {
                                             <h2 className="w-title text-center">Day Planner</h2>
                                             <div className="work-img ">
                                                 <a href="https://laurenzel93.github.io/workday-scheduler/" target="blank"><img src="assets/scheduler.png"
-                                                    className="img-fluid" width="300px" height="300px" ></img>
+                                                    className="img-fluid"></img>
                                                 </a>
                                                 <div className="work-content">
                                                     <div className="row">
@@ -129,7 +129,7 @@ function Projects() {
                                                 <h2 className="w-title text-center">Password Generator</h2>
                                                 <div className="work-img ">
                                                     <a href="laurenzel93.github.io/password-generator/" target="blank">
-                                                        <img src="assets/password-generator.png" className="img-fluid" width="300px" height="300px" ></img>
+                                                        <img src="assets/password-generator.png" className="img-fluid"></img>
                                                     </a>
                                                     <div className="work-content">
                                                         <div className="row">
