@@ -4,33 +4,33 @@ import './style.css';
 function Projects() {
     return (
 
-        <div id="work" ClassName="portfolio-mf sect-pt4 route">
-            <div ClassName="container">
-                <div ClassName="row">
-                    <div ClassName="col-sm-12">
-                        <div ClassName="title-box text-center">
-                            <h1 ClassName="title-a">
+        <div id="work" className="portfolio-mf sect-pt4 route">
+            <div className="container">
+                <div className="row">
+                    <div className="col-sm-12">
+                        <div className="title-box text-center">
+                            <h1 className="title-a">
                                 Please check out some of my projects!
                         </h1>
-                            <div ClassName="line-mf"></div>
+                            <div className="line-mf"></div>
                         </div>
                     </div>
                 </div>
-                <div ClassName="row">
+                <div className="row">
 
-                    <div ClassName="col-md-4">
-                        <div ClassName="work-box">
-                            <h2 ClassName="w-title text-center">Inspecto-Gadget</h2>
-                            <div ClassName="work-img ">
-                                <img src="assets/comingsoon.jpeg" ClassName="img-fluid" width="300px" height="300px" >
+                    <div className="col-md-4">
+                        <div className="work-box">
+                            <h2 className="w-title text-center">Inspecto-Gadget</h2>
+                            <div className="work-img ">
+                                <img src="assets/comingsoon.jpeg" className="img-fluid" width="300px" height="300px" >
                                 </img>
-                                <div ClassName="work-content">
-                                    <div ClassName="row">
-                                        <div ClassName="col-sm-8">
-                                            <div ClassName="w-more">
-                                                <span ClassName="w-ctegory"> <a href="https://github.com/Laurenzel93/inspecto-gadget" ClassName="repo-link"
+                                <div className="work-content">
+                                    <div className="row">
+                                        <div className="col-sm-8">
+                                            <div className="w-more">
+                                                <span className="w-ctegory"> <a href="https://github.com/Laurenzel93/inspecto-gadget" className="repo-link"
                                                     target="_blank">Github
-                                                Repo </a></span> / / / <span ClassName="w-date">July 2021</span>
+                                                Repo </a></span> / / / <span className="w-date">July 2021</span>
                                             </div>
                                         </div>
                                     </div>
@@ -38,21 +38,21 @@ function Projects() {
                             </div>
                         </div>
 
-                        <div ClassName="col-md-4">
-                            <div ClassName="work-box">
-                                <h2 ClassName="w-title text-center">Team Profile Generator</h2>
-                                <div ClassName="work-img ">
+                        <div className="col-md-4">
+                            <div className="work-box">
+                                <h2 className="w-title text-center">Team Profile Generator</h2>
+                                <div className="work-img ">
                                     <a href="https://github.com/Laurenzel93/team-profile-generator" target="blank"><img
-                                        src="assets/team-profile-generator.png" ClassName="img-fluid" width="300px" height="300px" ></img>
+                                        src="assets/team-profile-generator.png" className="img-fluid" width="300px" height="300px" ></img>
                                     </a>
-                                    <div ClassName="work-content">
-                                        <div ClassName="row">
-                                            <div ClassName="col-sm-8">
-                                                <div ClassName="w-more">
+                                    <div className="work-content">
+                                        <div className="row">
+                                            <div className="col-sm-8">
+                                                <div className="w-more">
 
-                                                    <span ClassName="w-ctegory"> <a href="https://github.com/Laurenzel93/team-profile-generator" ClassName="repo-link"
+                                                    <span className="w-ctegory"> <a href="https://github.com/Laurenzel93/team-profile-generator" className="repo-link"
                                                         target="_blank">Github
-                                                Repo </a></span> / / / <span ClassName="w-date">June 2021</span>
+                                                Repo </a></span> / / / <span className="w-date">June 2021</span>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,20 +60,20 @@ function Projects() {
                                 </div>
                             </div>
 
-                            <div ClassName="col-md-4">
-                                <div ClassName="work-box">
-                                    <h2 ClassName="w-title text-center">The Bashful Diner</h2>
-                                    <div ClassName="work-img ">
-                                        <a href="http://www.thebashfuldiner.com/" target="blank"><img src="assets/BashfulDiner.png" ClassName="img-fluid" width="300px" height="300px" ></img>
+                            <div className="col-md-4">
+                                <div className="work-box">
+                                    <h2 className="w-title text-center">The Bashful Diner</h2>
+                                    <div className="work-img ">
+                                        <a href="http://www.thebashfuldiner.com/" target="blank"><img src="assets/BashfulDiner.png" className="img-fluid" width="300px" height="300px" ></img>
                                         </a>
-                                        <div ClassName="work-content">
-                                            <div ClassName="row">
-                                                <div ClassName="col-sm-8">
-                                                    <div ClassName="w-more">
+                                        <div className="work-content">
+                                            <div className="row">
+                                                <div className="col-sm-8">
+                                                    <div className="w-more">
 
-                                                        <span ClassName="w-ctegory"> <a href="https://github.com/Laurenzel93/the-bashful-diner" ClassName="repo-link"
+                                                        <span className="w-ctegory"> <a href="https://github.com/Laurenzel93/the-bashful-diner" className="repo-link"
                                                             target="_blank">Github
-                                                Repo </a></span> / / / <span ClassName="w-date">May 2021</span>
+                                                Repo </a></span> / / / <span className="w-date">May 2021</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -81,20 +81,20 @@ function Projects() {
                                     </div>
                                 </div>
 
-                                <div ClassName="col-md-4">
-                                    <div ClassName="work-box">
-                                        <h2 ClassName="w-title text-center">Weather Dashboard</h2>
-                                        <div ClassName="work-img ">
+                                <div className="col-md-4">
+                                    <div className="work-box">
+                                        <h2 className="w-title text-center">Weather Dashboard</h2>
+                                        <div className="work-img ">
                                             <a href="https://laurenzel93.github.io/weather-dashboard/" target="blank"><img src="assets/weather-dashboard.png"
-                                                ClassName="img-fluid" width="300px" height="300px" ></img>
+                                                className="img-fluid" width="300px" height="300px" ></img>
                                             </a>
-                                            <div ClassName="work-content">
-                                                <div ClassName="row">
-                                                    <div ClassName="col-sm-8">
-                                                        <div ClassName="w-more">
-                                                            <span ClassName="w-ctegory"> <a href="https://github.com/Laurenzel93/weather-dashboard" ClassName="repo-link"
+                                            <div className="work-content">
+                                                <div className="row">
+                                                    <div className="col-sm-8">
+                                                        <div className="w-more">
+                                                            <span className="w-ctegory"> <a href="https://github.com/Laurenzel93/weather-dashboard" className="repo-link"
                                                                 target="_blank">Github
-                                                Repo </a></span> / / / <span ClassName="w-date">April 2021</span>
+                                                Repo </a></span> / / / <span className="w-date">April 2021</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -102,21 +102,21 @@ function Projects() {
                                         </div>
                                     </div>
 
-                                    <div ClassName="col-md-4">
-                                        <div ClassName="work-box">
-                                            <h2 ClassName="w-title text-center">Day Planner</h2>
-                                            <div ClassName="work-img ">
+                                    <div className="col-md-4">
+                                        <div className="work-box">
+                                            <h2 className="w-title text-center">Day Planner</h2>
+                                            <div className="work-img ">
                                                 <a href="https://laurenzel93.github.io/workday-scheduler/" target="blank"><img src="assets/scheduler.png"
-                                                    ClassName="img-fluid" width="300px" height="300px" ></img>
+                                                    className="img-fluid" width="300px" height="300px" ></img>
                                                 </a>
-                                                <div ClassName="work-content">
-                                                    <div ClassName="row">
-                                                        <div ClassName="col-sm-8">
-                                                            <div ClassName="w-more">
+                                                <div className="work-content">
+                                                    <div className="row">
+                                                        <div className="col-sm-8">
+                                                            <div className="w-more">
 
-                                                                <span ClassName="w-ctegory"> <a href="https://github.com/Laurenzel93/workday-scheduler" ClassName="repo-link"
+                                                                <span className="w-ctegory"> <a href="https://github.com/Laurenzel93/workday-scheduler" className="repo-link"
                                                                     target="_blank">Github
-                                                Repo </a></span> / / / <span ClassName="w-date">March 2021</span>
+                                                Repo </a></span> / / / <span className="w-date">March 2021</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -124,21 +124,21 @@ function Projects() {
                                             </div>
                                         </div>
 
-                                        <div ClassName="col-md-4">
-                                            <div ClassName="work-box">
-                                                <h2 ClassName="w-title text-center">Password Generator</h2>
-                                                <div ClassName="work-img ">
+                                        <div className="col-md-4">
+                                            <div className="work-box">
+                                                <h2 className="w-title text-center">Password Generator</h2>
+                                                <div className="work-img ">
                                                     <a href="laurenzel93.github.io/password-generator/" target="blank">
-                                                        <img src="assets/password-generator.png" ClassName="img-fluid" width="300px" height="300px" ></img>
+                                                        <img src="assets/password-generator.png" className="img-fluid" width="300px" height="300px" ></img>
                                                     </a>
-                                                    <div ClassName="work-content">
-                                                        <div ClassName="row">
-                                                            <div ClassName="col-sm-8">
-                                                                <div ClassName="w-more">
+                                                    <div className="work-content">
+                                                        <div className="row">
+                                                            <div className="col-sm-8">
+                                                                <div className="w-more">
 
-                                                                    <span ClassName="w-ctegory"> <a href="https://github.com/Laurenzel93/password-generator" ClassName="repo-link"
+                                                                    <span className="w-ctegory"> <a href="https://github.com/Laurenzel93/password-generator" className="repo-link"
                                                                         target="_blank">Github
-                                                Repo </a></span> / / / <span ClassName="w-date">Feb 2021</span>
+                                                Repo </a></span> / / / <span className="w-date">Feb 2021</span>
 
                                                                 </div>
                                                             </div>
